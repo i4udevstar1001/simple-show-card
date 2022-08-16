@@ -6,7 +6,8 @@ Contributors: Kevin Lee
 * Accept a language parameter to either display in fr or en
 
 = How it works =
-
+* Need to add short code
+* [simpleshowcard card_id='5f342a3992ec22115033b2fb' card_lang='fr' card_imgsize='200']
 
 == Installation ==
 

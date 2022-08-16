@@ -1,0 +1,37 @@
+/**
+ * Simple Show Card Style
+ * 
+ * @package    Simple Show Card
+ * @subpackage simpleb-show-card.css
+ */
+
+ .secard-block {
+     box-shadow: 0px 0 4px rgba(0, 0, 0, 0.2);
+     padding: 20px;
+     border-radius: 5px;
+ }
+
+ .sscard-flex {
+     display: flex;
+     flex-direction: row;
+     margin-bottom: 15px;
+ }
+
+ .sscard-flex h5 {
+     font-size: 20px;
+     font-weight: normal;
+     margin: 3px 0 15px 20px;
+     line-height: 1.2;
+ }
+
+ .sscard-flex h3 {
+    font-size: 26px;
+    font-weight: bold;
+    margin: 3px 0 10px 20px;
+    line-height: 1.2;
+}
+
+.sscard-content {
+    font-size: 18px;
+    line-height: 1.7;
+}
